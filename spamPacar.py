@@ -43,8 +43,8 @@ def main(arg):
 #	print(req.text)
 	st='success'
 	if st in req.text:
-		print("Alhamdulillah sukses!")
-	else: print("Innalilahi gagal,pacar idaman tuh 😊 ")
+		print("Bundaaaa....!")
+	else: print("masih marah kahhhh... 😢😢 ")
 
 tol = []
 for x in range(jm):
